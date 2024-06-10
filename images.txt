@@ -1,2 +1,1 @@
-python:alpine3.19
-
+celaraze/cat:latest
