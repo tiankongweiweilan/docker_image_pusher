@@ -1,2 +1,1 @@
-celaraze/cat:latest
 lobe-chat
