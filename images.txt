@@ -1,1 +1,2 @@
 celaraze/cat:latest
+lobe-chat:latest
